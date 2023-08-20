@@ -22,12 +22,18 @@ At BiteBud, we understand that maintaining a healthy lifestyle can be challengin
    git clone https://github.com/your-username/bitebud.git
    
 2. **Navigate to the project directory:**
+   
    cd bitebud
+   
 4. Install the required dependencies:
+   
    npm install
-6. Start the development server:
+   
+7. Start the development server:
+   
    npm start
-8. Open your web browser and visit http://localhost:3000 to use BiteBud locally.
+   
+9. Open your web browser and visit http://localhost:3000 to use BiteBud locally.
 
 ## 💻 Technologies Used
 1. React
