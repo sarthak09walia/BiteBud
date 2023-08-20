@@ -4,7 +4,7 @@ import { Dialog } from "primereact/dialog";
 import { Slider } from "primereact/slider";
 import { InputText } from "primereact/inputtext";
 
-const apiKey = "a119fb12cfa8427ca177bfec0e3d689f";
+const apiKey = "<API_KEY>";
 
 const Nutrition = () => {
   const [recipes, setRecipes] = useState([]);

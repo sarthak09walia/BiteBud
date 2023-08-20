@@ -9,7 +9,7 @@ const toSentenceCase = (text) => {
   return text.toLowerCase().split(' ').map((word) => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
 }
 
-const apiKey='a119fb12cfa8427ca177bfec0e3d689f'
+const apiKey='<API_KEY>'
 
 const Ingredients= () => {
   const [recipes, setRecipes] = useState([]);
