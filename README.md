@@ -19,7 +19,7 @@ At BiteBud, we understand that maintaining a healthy lifestyle can be challengin
 
 1. **Clone this repository to your local machine:**
    
-   git clone https://github.com/your-username/bitebud.git
+   git clone https://github.com/BiteBud/bitebud.git
    
 2. **Navigate to the project directory:**
    
